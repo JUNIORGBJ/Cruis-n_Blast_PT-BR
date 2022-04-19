@@ -1,0 +1,423 @@
+Missing Translation
+MPH
+KPH
+MPH
+KPH
+ft
+m
+ft
+m
+PARA TERMINAR
+AVISO
+En este videojuego\
+Peligros para epilépticos
+Un segmento muy pequeño de la población tiene una afección que puede hacerle experimentar convulsiones epilépticas o pérdidas de consciencia temporales cuando ven ciertos tipos de luces o formas brillantes que están presentes en nuestra vida cotidiana. Estas personas pueden sufrir convulsiones cuando ven ciertas imágenes en la televisión o juegan a determinados videojuegos. Incluso aquellas personas que no tengan antecedentes de convulsiones pueden poseer una afección epiléptica subyacente.
+Si usted o alguien de su familia experimentó síntomas asociados a una afección epiléptica (por ej.\
+Recomendamos que los padres observen a sus hijos cuando jueguen a videojuegos. Si usted o su hijo experimentan algunos de estos síntomas: mareos\
+APERTE <sprite name="Button_D_RIGHT" color=#FED800> PARA ACELERAR
+Jogo local
+Unico jogador
+Multijogador
+Tour Cruis'n
+Contra-relógio
+Árcade clássico
+Corrida individual
+Melhor de três
+Eliminação
+-
+-
+-
+-
+1.º
+2.º
+3.º
+4.º
+5.º
+6.º
+7.º
+8.º
+9.º
+10.º
+Aperte<space=0.2em><voffset=-0.1em><size=150%><sprite name="Button_D_RIGHT" color=#FED800></size></voffset><space=0.2em>para iniciar
+3 jogadores
+2 jogadores
+4 jogadores
+-
+Criar sala
+-
+NITRO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+RESULTADOS
+{0}: Copa ouro
+{0}: Copa prata
+{0}: Copa bronze
+Boa tentativa!
+Urbano
+Fuga
+Tormenta
+Óvni
+jurássico
+Helicóptero
+Noturno
+Montanhoso
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ESTATÍSTICAS DO CARRO
+Corvette Stingray
+GMC Hummer EV
+Chevrolet Camaro ZL1
+Nissan 370Z
+Nissan GT-R
+1963 Corvette Stingray
+1959 Corvette
+1959 Cadillac Eldorado
+Caminhão monstro
+Ônibus escolar
+Supermoto
+Carro de polícia
+Caminhão de bombeiros
+Helicóptero furtivo
+Tricerátopos
+Óvni
+Rubino Bullet
+Quad ATV
+Aerodeslizador
+Tubarão-martelo
+Ônibus de dois andares
+Unicórnio
+Tanque
+Sim
+-
+-
+-
+TOUR\nFUGA
+TOUR<space=0.17em>TORMENTA
+<pos=-14%>TOUR<pos=48%>OVNI
+<space=-1em>TOUR\n         JURÁSSICO
+TOUR\nHELICÓPTERO
+TOUR\nNOTURNO
+TOUR\nMONTANHOSO
+TOUR URBANO
+TOUR FUGA
+TOUR TORMENTA
+TOUR OVNI
+TOUR JURÁSSICO
+TOUR HELICÓPTERO
+TOUR URBANO
+TOUR MONTANHOSO
+-
+CONTINUAR
+ABANDONAR
+Especialista
+Fácil
+Normal
+Difícil
+SEGURE <sprite name="Button_D_DOWN" color=#FED800> PARA IGNORAR
+PARA IGNORAR
+PRÓXIMO
+FEITO
+-
+-
+-
+-
+-
+-
+-
+-
+TOUR CRUIS'N
+Árcade clássico
+SELEÇÃO DE PISTA
+CONTRA O RELÓGIO
+SIM
+Iniciar CORRIDA?
+PRONTO
+META!
+-
+Próximo:
+NOVO RECORDE
+Seu tempo:
+Melhor tempo:
+Tempo anterior:
+-
+-
+CONCLUÍDO!
+Não está pronto
+Vazio
+Pronto
+Escolhendo carro
+Escolhendo melhoria
+Sala {1} {0}
+
+de
+Atualizar
+Atualize para tentar novamente\no\nCrie sua própria sala
+Nenhuma sala encontrada
+Progresso
+Fácil
+Normal
+Difícil
+Especialista
+TOUR
+MOTOR
+CHASSIS
+ADESIVOS
+LUZES
+Ao máximo!
+Nível {0}
+Nível {0}
+Nível {0}
+Nível <mspace=0.5em>{0}
+Próximo desbloqueio:
+Você encontrou todas as chaves!
+Desbloqueado ao conseguir o <color=#FFC600>ouro</color> em <color="red">{0}</color>
+Desbloqueado ao encontrar <color="red">{0} Chaves</color>
+Desbloqueado ao concluir mais <color="red">tours</color>
+Desbloqueado com <color="red">{0}</color>
+COMPRAR
+SIM/NÃO
+VELOCIDADE
+ACELERAÇÃO
+NITRO
+PESO
+OFF-ROAD
+MÁX.
+VEÍCULO
+Próximo desbloqueio
+Chaves Cruis'n
+Garagem
+progresso nos Tours
+PINTURA
+MELHORIAS
++1 NITRO
+INICIAR\nCORRIDA
+INICIAR
+<sprite name="cash"> Dinheiro
+<sprite name="key"> Chaves
+Você precisa de mais\n{0}
+Comprar por\n{0}?
+Você não pode comprar mais de 5 NITROS
+SIM
+Cancelar
+Disponível no <color="red">nível <size=120%>2
+Disponível no <color="red">nível <size=120%>3
+Disponível no <color="red">nível <size=120%>4
+Disponível no <color="red">nível <size=120%>5
+REINICIAR CORRIDA
+REINICIAR TOUR
+Ir para o menu principal?
+Reiniciar o tour?
+Reiniciar a corrida?
+RECOMPENSA
+Desbloqueia ao conseguir \no <color=#FFC700>ouro</color> em todos os tours \nno modo normal
+Desbloqueia ao conseguir \nno <color=#FFC700>ouro</color> em todos os tours \nno modo difícil
+Vibração:
+Controles de inclinação:
+Aceleração automática:
+<color="green">Sim
+<color="red">Não
+<format only>
+Primeira corrida
+Segunda corrida
+Terceira corrida
+Corrida final
+J1
+J2
+J3
+J4
+Jogador 1
+Jogador 2
+Jogador 3
+Jogador 4
+Todos devem concordar
+Você precisa de mais\n<pos=-4%><sprite name="cash"> dinheiro
+Você precisa de mais\n<pos=-4%><sprite name="key"> chaves
+DICA:
+Aperte <sprite name="Button_L" color=#FED800> para ativar um NITRO e VÁ MAIS RÁPIDO!
+Derrape durante um salto para realizar um <color=#FED800><size=1.2em>giro!
+Segure <sprite name="Button_R" color=#FED800> enquanto curva para derrapar!
+Aperte duas vezes <sprite name="Button_D_RIGHT" color=#FED800> para empinar como um cavalo!
+Empine durante um salto para realizar um <color=#FED800><size=1.2em> BACKFLIP!
+Empine sobre um carro para <color=#FED800><size=1.2em>PULAR</color></size> por encima dele!
+Aperte duas vezes <sprite name="Button_D_RIGHT" color=#FED800> enquanto curva para fazer uma <color=#FED800><size=1.2em>EMPINADA LATERAL!
+Empine durante salto para realizar um <color=#FED800><size=1.2em> GIRO DE CAPÔ!
+Encontre <color=#FED800><size=1.1em>chaves</size></color> em cada pista para comprar carros novos!
+Consiga <color=#FED800>XP</color> para cada carro.\nVocê terá <color=#FED800>melhorias</color> quando você subir de nível!
+Acelerar
+Nitro
+Derrapar
+Dirigir
+Músicas
+Frear
+Alterar câmera
+Controles
+Nitro!
+Tempo de Derrape:
+Aperte <sprite name="Button_L" color=#FED800> quando pausado para ver os controles
+Londres
+Río de Janeiro
+Cingapura
+Vale da Morte
+Madagáscar
+Acelerando em Carnaby
+Circuito de Oxford
+Invasão britânica
+Corrida no cânion
+Perseguição na selva
+Passeio de carnaval
+Janeiro jurássico
+Corrida para o Rio
+Beco do furacão
+Discos Sentosa
+Pilotos noturnos
+tornado aterrorizante
+Fuga desértica
+Assalto em hollywood
+Ataque espacial
+Estrela jurássica
+Safári selvagem
+Perigo pré-histórico
+Ameaça jurássica
+Adrenalina Yeti
+Caos na Montanha
+HK 2089
+Contacto alienígena
+Tsunami de néon
+----
+Acrobacias:
+Objetos:
+Tempo de voo:
+Tempo de derrape:
+Eliminações:
+TOTAL DE GANHOS
+Três ouros para GANHAR!
+{0} GANHOS!
+VOCÊ GANHOU!
+NOVO RECORDE!
+MANO A MANO\n<size=120%>GANHADOR!
+Meta de chegada: {0}!
+{0} Lugar
+1.º
+2.º
+3.º
+4.º
+5.º
+6.º
+7.º
+8.º
+9.º
+10.º
+----
+Classificação
+NOVA MELHORIA!
+NOVAS MELHORIAS!
++{0}<color=#0096FF> XP
+----
+PREPARADO
+PRONTO
+VAI<space=0.02em>!
+Tempo recorde:\n
+O HOST DESCONECTADO
+TODOS OS OUTROS JOGADORES FORAM DESCONECTADOS
+VOLTAR PARA\nMENU PRINCIPAL?
+Ganhe o melhor de 3
+Modo de jogo:
+Aguardando os jogadores
+Aguardando o host iniciar
+Desbloqueado ao conseguir o <color="red">bronze</color> em <color="red">2 tours</color>
+Desbloqueado ao conseguir a <color="red">prata</color> em <color="red">3 tours</color>
+Desbloqueado ao conseguir o <color="red">ouro</color> em <color="red">4 tours</color>
+Desbloqueado ao conseguir o <color="red">ouro</color> em <color="red">5 tours</color>
+Ouro
+Prata
+Bronze
+Consiga {0} {2} de <color="red">{1}</color> a mais para desbloquear o <color="red">próximo tour</color>!
+medalha
+medalhas
+Total\n
+Novos desbloqueios!
+DESBLOQUEADO!
++1000<color=#0096FF> XP
+1.<size=60%><voffset=0.41em>er</voffset></size> lugar
+Nível <mspace=0.5em>2
+BÔNUS!
+A sala está cheia
+Consiga <size=120%><color=#DE0000>chaves</color></size> e\nconclua <size=120%><color=#DE0000>tours</color></size>\npara desbloquear todos!
+<size=130%>{0}</size> CARROS ESCONDIDOS
+PISTA
+Melhor tempo
+PISTAS
+Competir por ouro em uma série de 4 corridas!
+Corra nas pistas de árcade!
+Corra sozinho para bater o tempo recorde!
+Corra em uma única pista
+O primeiro jogador com três vitórias ganha!
+Uma corrida divertida para todos os níveis
+Mais habilidade necessária
+A concorrência está esquentando
+Um desafio para motoristas experientes
+Mais arte
+Animação de personagens
+Artista de personagem
+Diretor
+Artistas de ambiente
+Produtor executivo
+Famílias
+Finanças e compras
+Artista líder
+Programador líder
+Licenciamento
+Programação
+Teste e garantia de qualidade
+Artista de IU
+CRÉDITOS
+Cruis'n Blast
+COMO JOGAR
+Ativar direção de movimento no menu de pausa
+Extras
+VEJA TODOS OS CONTROLES NO <color=#FED800>"EXTRAS"</color>
+DIFICULDADE DIFÍCIL FOI DESBLOQUEADO!\n<sprite name="cash">+100\
+DIFICULDADE ESPECIALISTA FOI DESBLOQUEADO!!\n<sprite name="cash">+100\
+Comprar {1} por\n{0}?
+Traduções
+Agradecimentos especiais
+Outros
+Outros créditos
+Mais agradecimentos
+Empresa de teste de controle de qualidade
+Membros da equipe
