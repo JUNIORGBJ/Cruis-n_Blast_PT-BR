@@ -16,7 +16,7 @@ Este projeto irá ajudar muitas pessoas a entender melhor a história do jogo, p
 
 ## :small_blue_diamond:Requerimentos
 
-- Obrigatório o update v131072
+- Obrigatório o Update 2 (v131072)
 - Nintendo Switch Debloqueado - SXOS ou ATMOSPHERE>
 
 ## :small_blue_diamond:Instalação
