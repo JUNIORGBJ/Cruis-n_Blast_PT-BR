@@ -1,3 +1,4 @@
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JUNIORGBJ/Cruis-n_Blast_PT-BR)](https://github.com/JUNIORGBJ/JUNIORGBJ/Cruis-n_Blast_PT-BR/releases/latest)
 [![GBJ Traduções](https://img.shields.io/badge/‹Traduções%20GBJ›-c14438?style=flat&logo=Nintendo%20Switch&logoColor=white)](https://github.com/JUNIORGBJ)
 <h1 align="center"><figure>
   <img src="Cruis-n_Blast.png">
